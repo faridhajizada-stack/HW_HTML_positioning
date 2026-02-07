@@ -14,8 +14,7 @@
 1. **Склонируйте репозиторий к себе на компьютер:**
    ```bash
    git clone https://github.com/ShevchenkoOl/HW_HTML_positioning.git
-
-```
+   ```
 
 2. **Подготовка:**
 В репозитории вы найдете файлы:
