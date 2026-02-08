@@ -27,3 +27,30 @@ h1 {
 
   position: relative;
 }
+
+.dopis{
+  position:absolute;
+  bottom: 0;
+}
+.motyl{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.kniha{
+  position:absolute;
+  top: -70px;
+  left: -60px;
+}
+.sluchatka{
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+.spanek{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+
+}
